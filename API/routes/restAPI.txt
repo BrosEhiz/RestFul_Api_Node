@@ -1,0 +1,24 @@
+
+Things to do when creating an API
+
+1. set up the npm init (node package manager)
+2. install express();
+3. install nodemon();
+4. set the node server with the (server.js)
+5. import the express app and set server.listen on (app.js)
+6. install the the middleware package ('morgan')
+7. install the bodyParser ('body-parser')
+9. create the route folder and create the product/order.js file
+10. setup a route handler inside the app.js folder
+11. create and import express and Route sub express package in every routing file
+12. create an error handler for both the the req/database error
+13. always export from every routh file and the app.js 
+14. import all the routing file products/orders file to the app.js file
+15. setup and Header to prevent CORS error for your Restful API
+16. install the mongoose and mongodb package from terminal
+17. import the mongoose to where necessary
+18. create a folder for mongoose to set up your Schema
+19. save schema in a model and export it 
+20. import the schema into the rout you want to use it one and do seperate schema for all other rout and import
+21. keep modifying your post, get, delete all your request in other to attain optimum satisfaction and error handling 
+22. ensure your mongoose is connected to your DB and the post request are stored there
